@@ -169,7 +169,7 @@ if (USE_DLIB)
 endif()
 
 set(CAFFE_DD_USER CorentinB)
-set(CAFFE_DD_BRANCH use_hdf5)
+set(CAFFE_DD_BRANCH use_hdf5_debug)
 
 if (USE_CAFFE2)
 
