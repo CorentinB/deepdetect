@@ -168,8 +168,8 @@ if (USE_DLIB)
     message(STATUS "Dlib will be built")
 endif()
 
-set(CAFFE_DD_USER jolibrain)
-set(CAFFE_DD_BRANCH master)
+set(CAFFE_DD_USER CorentinB)
+set(CAFFE_DD_BRANCH use_hdf5)
 
 if (USE_CAFFE2)
 
